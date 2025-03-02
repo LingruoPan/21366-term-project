@@ -3,3 +3,4 @@ This github Repository will contain csv data file, data description, method, cod
 data cleaning
 Outlier detection
 data visualization
+Let stock_id and date_id as features
